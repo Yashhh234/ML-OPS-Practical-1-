@@ -3,4 +3,4 @@ Project Title - ML_Ops Practical ass 1
 Objective - To Understand version control on github for ML projects.
 Dataset- Sample CSV dataset used for learning purpose.
 Outcome- Learn how to manage and track ML project files.
-[iris.csy](https:/github.com/user-attachments/files/24463780/iris.csv)
+[iris.csy]("C:\Users\Admin\Desktop\BAT Datasets ActivityBase\5_Customer.csv")
